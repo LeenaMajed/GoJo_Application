@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "104256706346",
+    "project_id": "gojo-a3ad1",
+    "storage_bucket": "gojo-a3ad1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104256706346:android:9ab454904152a9a8cf3053",
+        "android_client_info": {
+          "package_name": "com.example.gojo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWl6S9_5DuZiF9ZEu_w5xy6ebJN1-JMLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
